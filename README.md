@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Adeleye Adeyemi .........@a-adeleye
-- 👀 I’m interested in Juinor Web Development roles
-- 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking to collaborate on anything that involves learning
-- 📫 You can reach me on adeleyeadeyemib@gmail.com
+Somewhere between curiosity and code.
+
+Building things I wish existed.  
+Breaking things. Figuring things out.  
+Turning ideas into software.
 
 <!---
 a-adeleye/a-adeleye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
